@@ -1,0 +1,7 @@
+Sentence: I deposited money in the bank
+Predicted Sense: bank.n.09
+Definition: a financial institution that accepts deposits
+
+Sentence: The river bank was very steep
+Predicted Sense: bank.n.01
+Definition: sloping land beside a river
