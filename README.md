@@ -186,4 +186,3 @@ Future improvements could include:
 
 
 
-This project is open-source and intended for educational and research purposes.
